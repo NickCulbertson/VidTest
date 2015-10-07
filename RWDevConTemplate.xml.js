@@ -75,7 +75,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 				    </relatedContent>
 				  </listItemLockup>
 				 <listItemLockup> 
-				    <title>Sci-Fi & Horror</title>
+				    <title>Sci-Fi and Horror</title>
 				    <decorationLabel>18</decorationLabel>
 				    <relatedContent> 
 				      <grid>
