@@ -88,12 +88,15 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 								  </lockup>
 								  <lockup videoURL="https://archive.org/download/Plan_9_from_Outer_Space_1959/Plan_9_from_Outer_Space_1959.mp4">
 								    <img src="${this.BASEURL}2.png" width="500" height="308" />
+											<title>Plan 9 from Outer Space</title>
 								  </lockup>									
 							          <lockup videoURL="https://archive.org/download/VoyagetothePlanetofPrehistoricWomen/VoyagetothePlanetofPrehistoricWomen_512kb.mp4">
 								    <img src="${this.BASEURL}3.png" width="500" height="308" />
-								  </lockup>									
+											<title>Plan 9 from Outer Space</title>
+								  </lockup>								
 								  <lockup videoURL="https://archive.org/download/house_on_haunted_hill_ipod/house_on_haunted_hill_512kb.mp4">
 								    <img src="${this.BASEURL}4.png" width="500" height="308" />
+											<title>House on Haunted Hill</title>
 								  </lockup>									
 							          <lockup videoURL="https://archive.org/download/ThePhantomCreeps/ThePhantomCreeps_512kb.mp4">
 								    <img src="${this.BASEURL}5.png" width="500" height="308" />
