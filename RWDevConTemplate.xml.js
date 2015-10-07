@@ -21,6 +21,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 								  </lockup>
 								  <lockup videoURL="https://archive.org/download/Plan_9_from_Outer_Space_1959/Plan_9_from_Outer_Space_1959.mp4">
 								    <img src="${this.BASEURL}2.png" width="500" height="308" />
+								 	<title>Night of The Living Dead</title>
 								  </lockup>									
 							          <lockup videoURL="https://archive.org/download/VoyagetothePlanetofPrehistoricWomen/VoyagetothePlanetofPrehistoricWomen_512kb.mp4">
 								    <img src="${this.BASEURL}3.png" width="500" height="308" />
