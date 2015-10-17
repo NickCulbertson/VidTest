@@ -140,6 +140,10 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 				  </listItemLockup>
 				  
         </section>
+        <section>
+        											<title>Night of The Living Dead</title>
+
+        </section>
       </list>
     </catalogTemplate>
   </document>`
