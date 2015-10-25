@@ -87,22 +87,22 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 				      <grid>
 				        <section> 
 								  <lockup videoURL="https://archive.org/download/night_of_the_living_dead/night_of_the_living_dead_512kb.mp4">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Livingdead.jpg" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/night.jpg" width="500" height="308" />
 <title>Night of the Living Dead</title>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/Plan_9_from_Outer_Space_1959/Plan_9_from_Outer_Space_1959.mp4">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/PlanNine_02.jpg" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/plan.jpeg" width="500" height="308" />
 <title>Plan 9 from Outer Space</title>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/VoyagetothePlanetofPrehistoricWomen/VoyagetothePlanetofPrehistoricWomen.mp4">
-<img src="https://ia601400.us.archive.org/18/items/VoyagetothePlanetofPrehistoricWomen/VoyagetothePlanetofPrehistoricWomen.thumbs%2FVoyagetothePlanetofPrehistoricWomen_000060.jpg" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/voyage.png" width="500" height="308" />
 <title>Voyage to the Planet of Prehistoric Women</title>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/TheGhoul/TheGhoul_1933_512kb.mp4https://archive.org/download/house_on_haunted_hill_ipod/house_on_haunted_hill.mp4">
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/House_on_Haunted_Hill_%281959%29_-_Title.jpg" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/house.jpeg" width="500" height="308" />
 <title>House on Haunted Hill</title>
 </lockup>
 
