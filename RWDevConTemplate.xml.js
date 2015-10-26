@@ -30,15 +30,27 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 
 								  </lockup>	
 
+
+<lockup videoURL="https://archive.org/download/20000LeaguesUndertheSea/20000_Leagues_Under_the_Sea_512kb.mp4">
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/20000.png" width="500" height="308" />
+<title>20,000 Leagues Under the Sea</title>
+</lockup>	
+
+<lockup videoURL="https://archive.org/download/VoyagetothePlanetofPrehistoricWomen/VoyagetothePlanetofPrehistoricWomen.mp4">
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/voyage.png" width="500" height="308" />
+<title>Voyage to the Planet of Prehistoric Women</title>
+</lockup>	
+
+
+
+	
+
 <lockup videoURL="https://archive.org/download/Plan_9_from_Outer_Space_1959/Plan_9_from_Outer_Space_1959.mp4">
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/plan.jpeg" width="500" height="308" />
 <title>Plan 9 from Outer Space</title>
 </lockup>
 
-<lockup videoURL="https://archive.org/download/VoyagetothePlanetofPrehistoricWomen/VoyagetothePlanetofPrehistoricWomen.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/voyage.png" width="500" height="308" />
-<title>Voyage to the Planet of Prehistoric Women</title>
-</lockup>
+
 
 								  <lockup videoURL="https://archive.org/download/house_on_haunted_hill_ipod/house_on_haunted_hill_512kb.mp4">
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/house.jpg" width="500" height="308" />
@@ -94,10 +106,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/nosferatu.jpg" width="500" height="308" />
 <title>Nosferatu (A Symphony of Horror)</title>
 </lockup>
-							<lockup videoURL="https://archive.org/download/20000LeaguesUndertheSea/20000_Leagues_Under_the_Sea_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/20000.png" width="500" height="308" />
-<title>20,000 Leagues Under the Sea</title>
-</lockup>							
+											
 								  
 								</section>
 				      </grid>
