@@ -155,7 +155,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/ThePhantomoftheOpera/Phantom_of_the_Opera_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/phantom.png" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/phantom2.png" width="500" height="308" />
 <title>The Phantom of the Opera</title>
 </lockup>
 
