@@ -14,7 +14,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
         <section> 
 				  <listItemLockup> 
 				    <title>Most Popular</title>
-				    <decorationLabel>20</decorationLabel>
+				    <decorationLabel>16</decorationLabel>
 				    <relatedContent> 
 				      <grid>
 					  <section> 
@@ -89,26 +89,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
 <title>Carnival of Souls</title>
 </lockup>
-
-					  
-								  <lockup videoURL="https://archive.org/download/night_of_the_living_dead/night_of_the_living_dead_512kb.mp4">
-								    <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Zombies_NightoftheLivingDead.jpg" width="500" height="308" />
-											<title>Night of The Living Dead</title>
-								  </lockup>
-								  
-								  <lockup videoURL="https://archive.org/download/Plan_9_from_Outer_Space_1959/Plan_9_from_Outer_Space_1959.mp4">
-								    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/PlanNine_02.jpg" width="500" height="308" />
-											<title>Plan 9 from Outer Space</title>
-								  </lockup>									
-							          <lockup videoURL="https://archive.org/download/VoyagetothePlanetofPrehistoricWomen/VoyagetothePlanetofPrehistoricWomen_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-											<title>Voyage to the Planet of Prehistoric Women</title>
-								  </lockup>								
-								  <lockup videoURL="https://archive.org/download/house_on_haunted_hill_ipod/house_on_haunted_hill_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-											<title>House on Haunted Hill</title>
-								  </lockup>			
-								  								
+				
 								 <lockup videoURL="https://archive.org/download/Nosferatu_most_complete_version_93_mins./Nosferatu_1922_Symphony_of_Horror_512kb.mp4">
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
 <title>Nosferatu (A Symphony of Horror)</title>
@@ -154,22 +135,22 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/BloodyPitOfHorror/BloodyPitOfHorror.mp4">
-<img src="https://ia800301.us.archive.org/8/items/BloodyPitOfHorror/BloodyPitOfHorror.thumbs%2FBloodyPitOfHorror_000060.jpg" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/bloody.png" width="500" height="308" />
 <title>Bloody Pit of Horror</title>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/Lady_Frankenstein/Lady_Frankenstein_512kb.mp4">
-<img src="https://archive.org/services/img/Lady_Frankenstein" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/lady.png" width="500" height="308" />
 <title>Lady Frankenstein</title>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/lost_world/lost_world_512kb.mp4">
-<img src="https://ia800301.us.archive.org/28/items/lost_world/lost_world.thumbs%2Flost_world_000060.jpg" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/lost.png" width="500" height="308" />
 <title>The Lost World</title>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/Horror_Express/Horror_Express_512kb.mp4">
-<img src="https://archive.org/services/img/Horror_Express" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/horror.png" width="500" height="308" />
 <title>Horror Express</title>
 </lockup>
 
@@ -179,7 +160,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/Killers_from_space/Killers_from_space_512kb.mp4">
-<img src="https://archive.org/services/img/Killers_from_space" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/killers.png" width="500" height="308" />
 <title>Killers From Space</title>
 </lockup>
 
