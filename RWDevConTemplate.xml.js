@@ -175,7 +175,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/Nosferatu_most_complete_version_93_mins./Nosferatu_1922_Symphony_of_Horror_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/nosferatu.png" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/nosferatu.jpg" width="500" height="308" />
 <title>Nosferatu (A Symphony of Horror)</title>
 </lockup>
 
