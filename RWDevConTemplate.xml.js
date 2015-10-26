@@ -568,7 +568,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 <title>Laurel &amp; Hardy Utopia</title>
 </lockup>
 <lockup videoURL="https://archive.org/download/3stooges/3stooges_NewApants2_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/msing.png" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/sing.png" width="500" height="308" />
 <title>3 Stooges Sing A Song Of Six Pants</title>
 </lockup>
 <lockup videoURL="https://archive.org/download/3stooges/3stooges_NewDisorder2_512kb.mp4">
