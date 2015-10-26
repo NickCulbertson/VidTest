@@ -293,7 +293,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 				  </listItemLockup>
 				    <listItemLockup> 
 				    <title>Action &amp; Adventure</title>
-				    <decorationLabel>3</decorationLabel>
+				    <decorationLabel>4</decorationLabel>
 				    <relatedContent> 
 				      <grid>
 					  <section> 
@@ -305,6 +305,10 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 <lockup videoURL="https://archive.org/download/Return_of_the_Kung_Fu_Dragon/Return_of_the_Kung_Fu_Dragon_512kb.mp4">
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/return.jpg" width="500" height="308" />
 <title>Return of the Kung Fu Dragon</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/suddenly/suddenly_512kb.mp4">
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/suddenly.png" width="500" height="308" />
+<title>Suddenly</title>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/JungleBook/Jungle_Book_512kb.mp4">
@@ -349,32 +353,32 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/CC_1915_12_18_ABurlesqueOnCarmen/CC_1915_12_18_ABurlesqueOnCarmen_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/charlie.png" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/burlesque.png" width="500" height="308" />
 <title>Charlie Chaplin A Burlesque On Carmen</title>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/CC_1917_04_16_TheCure/CC_1917_04_16_TheCure_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/charlie.png" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/cure.png" width="500" height="308" />
 <title>Charlie Chaplin The Cure</title>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/CC_1915_10_04_CharlieShanghaied/CC_1915_10_04_CharlieShanghaied_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/charlie.png" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/shanghaied.png" width="500" height="308" />
 <title>Charlie Chaplin Charlie Shanghaied</title>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/CC_1916_09_04_TheCount/CC_1916_09_04_TheCount_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/charlie.png" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/count.png" width="500" height="308" />
 <title>Charlie Chaplin The Count</title>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/CC_1914_08_13_CharliesRecreation/CC_1914_08_13_CharliesRecreation_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/charlie.png" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/recreation.png" width="500" height="308" />
 <title>Charlie Chaplin Charlies Recreation</title>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/CC_1914_11_14_TilliesPuncturedRomance/CC_1914_11_14_TilliesPuncturedRomance_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/charlie.png" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/tillies.png" width="500" height="308" />
 <title>Charlie Chaplin Tillies Punctured Romance</title>
 </lockup>
 
