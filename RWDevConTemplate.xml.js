@@ -306,6 +306,10 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/return.jpg" width="500" height="308" />
 <title>Return of the Kung Fu Dragon</title>
 </lockup>
+<lockup videoURL="https://archive.org/download/dressed_to_kill/dressed_to_kill_512kb.mp4">
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/dressed.png" width="500" height="308" />
+<title>Sherlock Holmes Dressed to Kill</title>
+</lockup>
 <lockup videoURL="https://archive.org/download/suddenly/suddenly_512kb.mp4">
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/suddenly.png" width="500" height="308" />
 <title>Suddenly</title>
@@ -570,6 +574,10 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 <lockup videoURL="https://archive.org/download/utopia/Utopia_512kb.mp4">
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/utopia.png" width="500" height="308" />
 <title>Laurel &amp; Hardy Utopia</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/my_favorite_brunette/my_favorite_brunette_512kb.mp4">
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/favorite.png" width="500" height="308" />
+<title>My Favorite Brunette</title>
 </lockup>
 <lockup videoURL="https://archive.org/download/3stooges/3stooges_NewApants2_512kb.mp4">
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/sing.png" width="500" height="308" />
