@@ -155,7 +155,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/ThePhantomoftheOpera/Phantom_of_the_Opera_512kb.mp4">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/The_Phantom_of_the_Opera_%281925%29.webm/220px--The_Phantom_of_the_Opera_%281925%29.webm.jpg" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/phantom.png" width="500" height="308" />
 <title>The Phantom of the Opera</title>
 </lockup>
 
@@ -165,57 +165,57 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/DasKabinettdesDoktorCaligariTheCabinetofDrCaligari/The_Cabinet_of_Dr._Caligari_512kb.mp4">
-<img src="https://ia802701.us.archive.org/8/items/DasKabinettdesDoktorCaligariTheCabinetofDrCaligari/DasKabinettdesDoktorCaligariTheCabinetofDrCaligari.thumbs%2FThe_Cabinet_of_Dr._Caligari_000060.jpg" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/cabinet.jpg" width="500" height="308" />
 <title>Das Kabinett des Doktor Caligari (The Cabinet of Dr. Caligari)</title>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/CarnivalofSouls/CarnivalOfSouls_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/carnival.jpeg" width="500" height="308" />
 <title>Carnival of Souls</title>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/Nosferatu_most_complete_version_93_mins./Nosferatu_1922_Symphony_of_Horror_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/nosferatu.png" width="500" height="308" />
 <title>Nosferatu (A Symphony of Horror)</title>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/Grave_of_the_Vampire_movie/Grave-of-the-Vampire_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/grave.jpg" width="500" height="308" />
 <title>Grave of the Vampire</title>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/20000LeaguesUndertheSea/20000_Leagues_Under_the_Sea_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/20000.png" width="500" height="308" />
 <title>20,000 Leagues Under the Sea</title>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/white_zombie/white_zombie_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/white.jpg" width="500" height="308" />
 <title>White Zombie</title>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/teenagers_from_outerspace/Teenagers_from_Outer_Space.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/teenagers.jpeg" width="500" height="308" />
 <title>Teenagers from Outer Space</title>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/Horror_Hotel/Horror_Hotel_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/horror2.png" width="500" height="308" />
 <title>City of the Dead/Horror Hotel</title>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/FrankensteinfullMovie/Frankenstein1910.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/frank.jpg" width="500" height="308" />
 <title>Frankenstein</title>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/ThePhantomCreeps/ThePhantomCreeps_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/phantom3.jpg" width="500" height="308" />
 <title>The Phantom Creeps</title>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/Cosmos_War_of_the_Planets/Cosmos_War_of_the_Planets_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/cosmos.jpg" width="500" height="308" />
 <title>Cosmos: War of the Planets</title>
 </lockup>
 
