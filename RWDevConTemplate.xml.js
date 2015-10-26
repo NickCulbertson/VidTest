@@ -25,7 +25,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/LeVoyageDansLaLune_218/voyage.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moon.jpg" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moon.png" width="500" height="308" />
 																				<title>Trip to the Moon</title>
 
 								  </lockup>	
@@ -86,16 +86,16 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/CarnivalofSouls/CarnivalOfSouls_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/carnival.jpeg" width="500" height="308" />
 <title>Carnival of Souls</title>
 </lockup>
 				
 								 <lockup videoURL="https://archive.org/download/Nosferatu_most_complete_version_93_mins./Nosferatu_1922_Symphony_of_Horror_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/nosferatu.jpg" width="500" height="308" />
 <title>Nosferatu (A Symphony of Horror)</title>
 </lockup>
 							<lockup videoURL="https://archive.org/download/20000LeaguesUndertheSea/20000_Leagues_Under_the_Sea_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/20000.png" width="500" height="308" />
 <title>20,000 Leagues Under the Sea</title>
 </lockup>							
 								  
@@ -289,12 +289,12 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 				      <grid>
 					  <section> 
 								  <lockup videoURL="https://archive.org/download/TheFastandtheFuriousJohnIreland1954goofyrip/TheFastandtheFuriousJohnIreland1954goofyrip_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/fast.png" width="500" height="308" />
 <title>The Fast And The Furious</title>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/Return_of_the_Kung_Fu_Dragon/Return_of_the_Kung_Fu_Dragon_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/return.jpg" width="500" height="308" />
 <title>Return of the Kung Fu Dragon</title>
 </lockup>
 
@@ -548,314 +548,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 				    </relatedContent>
 				  </listItemLockup>
 				  
-				  <listItemLockup> 
-				    <title>Comedy</title>
-				    <decorationLabel>84</decorationLabel>
-				    <relatedContent> 
-				      <grid>
-				        <section> 
-								  <lockup videoURL="https://archive.org/download/charlie_chaplin_film_fest/charlie_chaplin_film_fest_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-						<title>Charlie Chaplin Festival</title>
-						</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1916_07_10_TheVagabond/CC_1916_07_10_TheVagabond.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin The Vagabond</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1916_10_02_ThePawnshop/CC_1916_10_02_ThePawnshop_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin The Pawnshop</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1916_12_04_TheRink/CC_1916_12_04_TheRink_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin The Rink</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1916_05_15_TheFloorwalker/CC_1916_05_15_TheFloorwalker_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin The Floorwalker</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1915_12_18_ABurlesqueOnCarmen/CC_1915_12_18_ABurlesqueOnCarmen_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin A Burlesque On Carmen</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1917_04_16_TheCure/CC_1917_04_16_TheCure_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin The Cure</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1915_10_04_CharlieShanghaied/CC_1915_10_04_CharlieShanghaied_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin Charlie Shanghaied</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1916_09_04_TheCount/CC_1916_09_04_TheCount_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin The Count</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1914_08_13_CharliesRecreation/CC_1914_08_13_CharliesRecreation_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin Charlies Recreation</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1914_11_14_TilliesPuncturedRomance/CC_1914_11_14_TilliesPuncturedRomance_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin Tillies Punctured Romance</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1914_02_07_KidsAutoRaceAtVenice/CC_1914_02_07_KidsAutoRaceAtVenice_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin Kids Auto Race At Venice</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1916_08_07_One_A_M/CC_1916_08_07_One_A_M_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin One A.M.</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1914_02_02_MakingALiving/CC_1914_02_02_MakingALiving_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin Making A Living</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1914_02_09_MabelsStrangePredicament/CC_1914_02_09_MabelsStrangePredicament_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin Mabels Strange Predicament</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1914_08_31_TheGoodforNothing/CC_1914_08_31_TheGoodforNothing_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin The Good For Nothing</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1914_12_05_AFairExchange/CC_1914_12_05_AFairExchange_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin A Fair Exchange</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1917_06_17_TheImmigrant/CC_1917_06_17_TheImmigrant_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin The Immigrant</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1917_10_22_TheAdventurer/CC_1917_10_22_TheAdventurer_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin The Adventurer</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1916_05_27_Police/CC_1916_05_27_Police_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin Police</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1914_03_26_CruelCruelLove/CC_1914_03_26_CruelCruelLove_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin Cruel Cruel Love</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1914_06_11_TheKnockout/CC_1914_06_11_TheKnockout_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin The Knockout</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1914_04_27_CaughtinaCaberet/CC_1914_04_27_CaughtinaCaberet_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin Caught in a Caberet</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1914_02_28_BetweenShowers/CC_1914_02_28_BetweenShowers_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin Between Showers</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1918_xx_xx_TripleTrouble/CC_1918_xx_xx_TripleTrouble_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin Triple Trouble</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1914_05_07_ABusyDay/CC_1914_05_07_ABusyDay_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin A Busy Day</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1914_08_27_TheMasquerader/CC_1914_08_27_TheMasquerader_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin The Masquerader</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1916_06_12_TheFireman/CC_1916_06_12_TheFireman_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin The Fireman</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1915_02_01_HisNewJob/CC_1915_02_01_HisNewJob_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin His New Job</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1916_11_13_BehindtheScreen/CC_1916_11_13_BehindtheScreen_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin Behind The Screen</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1918_09_29_TheBond/CC_1918_09_29_TheBond_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin The Bond</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1914_03_02_FilmJohnny/CC_1914_03_02_FilmJohnny_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin A Film Johnnie</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1914_04_20_TwentyMinutesofLove/CC_1914_04_20_TwentyMinutesofLove_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin Twenty Minutes Of Love</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1914_03_16_HisFavoritePasttime/CC_1914_03_16_HisFavoritePasttime_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin His Favorite Pasttime</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1914_07_09_LaffingGas/CC_1914_07_09_LaffingGas_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin Laffing Gas</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1914_04_04_TheLandladysPet/CC_1914_04_04_TheLandladysPet_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin The Landladys Pet</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1914_08_10_FaceOnTheBarroomFloor/CC_1914_08_10_FaceOnTheBarroomFloor_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin Face On The Barroom Floor</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1914_08_01_CharolotGargonDeTheater/CC_1914_08_01_CharolotGargonDeTheater_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin Charolot Gargon De Theater</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1914_12_07_HisPrehistoricpast/CC_1914_12_07_HisPrehistoricpast_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin His Prehistoric Past</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1914_06_13_MabelsBusyDay/CC_1914_06_13_MabelsBusyDay_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin Mabels Busy Day</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1914_06_20_CharlottEtLeMannequin/CC_1914_06_20_CharlottEtLeMannequin_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin Mabels Married Life</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1914_11_07_MusicalTramps/CC_1914_11_07_MusicalTramps_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin Musical Tramps</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1914_09_07_TheRounders/CC_1914_09_07_TheRounders_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin The Rounders</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1914_11_09_HisTrystingPlace/CC_1914_11_09_HisTrystingPlace_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin His Trysting Place</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1914_10_10_TheRivalMashers/CC_1914_10_10_TheRivalMashers_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin The Rival Mashers</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/CC_1914_10_29_CharlottMabelAuxCourses/CC_1914_10_29_CharlottMabelAuxCourses_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Charlie Chaplin Gentlemen of Nerve</title>
-</lockup>
-
-
-								</section>
-				      </grid>
-				    </relatedContent>
-				  </listItemLockup>
 				  
-				   <listItemLockup> 
-				    <title>Cartoons</title>
-				    <decorationLabel>1</decorationLabel>
-				    <relatedContent> 
-				      <grid>
-				        <section> 
-								  <lockup videoURL="https://archive.org/download/gullivers_travels1939/gullivers_travels1939_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-<title>Gullivers Travels</title>
-</lockup>
-
-								</section>
-				      </grid>
-				    </relatedContent>
-				  </listItemLockup>
-				  
-				   <listItemLockup> 
-				    <title>Classic TV</title>
-				    <decorationLabel>0</decorationLabel>
-				    <relatedContent> 
-				      <grid>
-				        <section> 
-								  <lockup videoURL="https://archive.org/download/charlie_chaplin_film_fest/charlie_chaplin_film_fest_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-						<title>COMING SOON!</title>
-						</lockup>
-
-
-								</section>
-				      </grid>
-				    </relatedContent>
-				  </listItemLockup>
-				  
-				   <listItemLockup> 
-				    <title>Silent Films</title>
-				    <decorationLabel>0</decorationLabel>
-				    <relatedContent> 
-				      <grid>
-				        <section> 
-								  <lockup videoURL="https://archive.org/download/charlie_chaplin_film_fest/charlie_chaplin_film_fest_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-						<title>COMING SOON!</title>
-						</lockup>
-
-
-								</section>
-				      </grid>
-				    </relatedContent>
-				  </listItemLockup>
-				  
-				   <listItemLockup> 
-				    <title>Extras</title>
-				    <decorationLabel>0</decorationLabel>
-				    <relatedContent> 
-				      <grid>
-				        <section> 
-								  <lockup videoURL="https://archive.org/download/charlie_chaplin_film_fest/charlie_chaplin_film_fest_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moviethumb.png" width="500" height="308" />
-						<title>COMING SOON!</title>
-						</lockup>
-
-
-								</section>
-				      </grid>
-				    </relatedContent>
-				  </listItemLockup>
 				  
         </section>
       </list>
