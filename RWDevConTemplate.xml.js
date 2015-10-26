@@ -293,7 +293,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 				  </listItemLockup>
 				    <listItemLockup> 
 				    <title>Action &amp; Adventure</title>
-				    <decorationLabel>4</decorationLabel>
+				    <decorationLabel>6</decorationLabel>
 				    <relatedContent> 
 				      <grid>
 					  <section> 
@@ -309,6 +309,14 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 <lockup videoURL="https://archive.org/download/dressed_to_kill/dressed_to_kill_512kb.mp4">
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/dressed.png" width="500" height="308" />
 <title>Sherlock Holmes Dressed to Kill</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/tarzans_revenge/tarzans_revenge_512kb.mp4">
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/tarzan.png" width="500" height="308" />
+<title>Tarzans Revenge</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/TheStranger_0/The_Stranger_512kb.mp4">
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/stranger.png" width="500" height="308" />
+<title>The Stranger</title>
 </lockup>
 <lockup videoURL="https://archive.org/download/suddenly/suddenly_512kb.mp4">
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/suddenly.png" width="500" height="308" />
@@ -567,7 +575,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 				  
 <listItemLockup> 
 				    <title>Comedy</title>
-				    <decorationLabel>7</decorationLabel>
+				    <decorationLabel>9</decorationLabel>
 				    <relatedContent> 
 				      <grid>
 				        <section> 
@@ -604,6 +612,11 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/my.png" width="500" height="308" />
 <title>My Man Godfrey</title>
 </lockup>
+<lockup videoURL="https://archive.org/download/meet_john_doe/meet_john_doe_512kb.mp4">
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/my.png" width="500" height="308" />
+<title>Meet John Doe</title>
+</lockup>
+
 
 								</section>
 				      </grid>
