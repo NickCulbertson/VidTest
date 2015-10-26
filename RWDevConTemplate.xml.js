@@ -35,27 +35,18 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/20000.png" width="500" height="308" />
 <title>20,000 Leagues Under the Sea</title>
 </lockup>	
-
-<lockup videoURL="https://archive.org/download/VoyagetothePlanetofPrehistoricWomen/VoyagetothePlanetofPrehistoricWomen.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/voyage.png" width="500" height="308" />
-<title>Voyage to the Planet of Prehistoric Women</title>
-</lockup>	
-
-
-
-	
-
 <lockup videoURL="https://archive.org/download/Plan_9_from_Outer_Space_1959/Plan_9_from_Outer_Space_1959.mp4">
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/plan.jpeg" width="500" height="308" />
 <title>Plan 9 from Outer Space</title>
 </lockup>
-
-
-
 								  <lockup videoURL="https://archive.org/download/house_on_haunted_hill_ipod/house_on_haunted_hill_512kb.mp4">
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/house.jpg" width="500" height="308" />
 <title>House on Haunted Hill</title>
 </lockup>
+<lockup videoURL="https://archive.org/download/Metropolis1927EnglishVersion/Metropolis_1927_English_Version.mp4">
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/metropolis.png" width="500" height="308" />
+<title>Metropolis</title>
+</lockup>	
 
 <lockup videoURL="https://archive.org/download/TheGhoul/TheGhoul_1933_512kb.mp4">
 <img src="https://ia800306.us.archive.org/24/items/TheGhoul/TheGhoul.thumbs%2FTheGhoul_1933_000060.jpg" width="500" height="308" />
@@ -587,6 +578,10 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/favorite.png" width="500" height="308" />
 <title>My Favorite Brunette</title>
 </lockup>
+<lockup videoURL="https://archive.org/download/ColorCrazinessTheThreeStooges/threestoogescolorcraziness_512kb.mp4">
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/color.png" width="500" height="308" />
+<title>3 Stooges Color Craziness</title>
+</lockup>
 <lockup videoURL="https://archive.org/download/3stooges/3stooges_NewApants2_512kb.mp4">
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/sing.png" width="500" height="308" />
 <title>3 Stooges Sing A Song Of Six Pants</title>
@@ -613,16 +608,40 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 <title>My Man Godfrey</title>
 </lockup>
 <lockup videoURL="https://archive.org/download/meet_john_doe/meet_john_doe_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/my.png" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/meet.png" width="500" height="308" />
 <title>Meet John Doe</title>
 </lockup>
-
-
 								</section>
 				      </grid>
 				    </relatedContent>
 				  </listItemLockup>
-			  
+			  <listItemLockup> 
+				    <title>Cartoons</title>
+				    <decorationLabel>6</decorationLabel>
+				    <relatedContent> 
+				      <grid>
+				        <section> 
+								  <lockup videoURL="https://archive.org/download/gullivers_travels1939/gullivers_travels1939_512kb.mp4">
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/travels.png" width="500" height="308" />
+<title>Gullivers Travels</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/TomAndJerryWotANight/WotANight_512kb.mp4">
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/tom.png" width="500" height="308" />
+<title>Tom &amp; Jerry Wot a Night</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/Popeye_forPresident/Popeye_forPresident_512kb.mp4">
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/president.png" width="500" height="308" />
+<title>Popeye for President</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/Popeye_forPresident/Popeye_forPresident_512kb.mp4">
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/near.png" width="500" height="308" />
+<title>Popeye Nearlyweds</title>
+</lockup>
+								</section>
+				      </grid>
+				    </relatedContent>
+				  </listItemLockup>
+				  
         </section>
       </list>
     </catalogTemplate>
