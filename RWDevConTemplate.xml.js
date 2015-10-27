@@ -278,13 +278,21 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/daughter.png" width="500" height="308" />
 <title>Daughter of Horror</title>
 </lockup>
+<lockup videoURL="https://archive.org/download/the39steps_ipod/The_39_Steps_512kb.mp4">
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/steps.png" width="500" height="308" />
+<title>The 39 Steps</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/TheLittleShopOfHorrors/The%20Little%20Shop%20of%20Horrors.mp4">
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/little.png" width="500" height="308" />
+<title>Little Shop of Horror</title>
+</lockup>
 								</section>
 				      </grid>
 				    </relatedContent>
 				  </listItemLockup>
 				    <listItemLockup> 
 				    <title>Action &amp; Adventure</title>
-				    <decorationLabel>6</decorationLabel>
+				    <decorationLabel>7</decorationLabel>
 				    <relatedContent> 
 				      <grid>
 					  <section> 
@@ -566,7 +574,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 				  
 <listItemLockup> 
 				    <title>Comedy</title>
-				    <decorationLabel>9</decorationLabel>
+				    <decorationLabel>10</decorationLabel>
 				    <relatedContent> 
 				      <grid>
 				        <section> 
@@ -617,7 +625,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 				  </listItemLockup>
 			  <listItemLockup> 
 				    <title>Cartoons</title>
-				    <decorationLabel>6</decorationLabel>
+				    <decorationLabel>4</decorationLabel>
 				    <relatedContent> 
 				      <grid>
 				        <section> 
