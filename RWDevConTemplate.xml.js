@@ -326,6 +326,10 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/jungle.png" width="500" height="308" />
 <title>Jungle Book</title>
 </lockup>
+<lockup videoURL="https://archive.org/download/TheMagicSword/TheMagicSword_512kb.mp4">
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/magic.png" width="500" height="308" />
+<title>The Magic Sword</title>
+</lockup>
 
 								</section>
 				      </grid>
