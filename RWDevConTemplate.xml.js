@@ -23,14 +23,10 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/night.jpg" width="500" height="308" />
 <title>Night of the Living Dead</title>
 </lockup>
-
 <lockup videoURL="https://archive.org/download/LeVoyageDansLaLune_218/voyage.mp4">
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moon.png" width="500" height="308" />
 																				<title>Trip to the Moon</title>
-
 								  </lockup>	
-
-
 <lockup videoURL="https://archive.org/download/20000LeaguesUndertheSea/20000_Leagues_Under_the_Sea_512kb.mp4">
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/20000.png" width="500" height="308" />
 <title>20,000 Leagues Under the Sea</title>
@@ -47,7 +43,6 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/metropolis.png" width="500" height="308" />
 <title>Metropolis</title>
 </lockup>	
-
 <lockup videoURL="https://archive.org/download/TheGhoul/TheGhoul_1933_512kb.mp4">
 <img src="https://ia800306.us.archive.org/24/items/TheGhoul/TheGhoul.thumbs%2FTheGhoul_1933_000060.jpg" width="500" height="308" />
 <title>The Ghoul</title>
@@ -92,7 +87,6 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/carnival.jpeg" width="500" height="308" />
 <title>Carnival of Souls</title>
 </lockup>
-				
 								 <lockup videoURL="https://archive.org/download/Nosferatu_most_complete_version_93_mins./Nosferatu_1922_Symphony_of_Horror_512kb.mp4">
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/nosferatu.jpg" width="500" height="308" />
 <title>Nosferatu (A Symphony of Horror)</title>
@@ -286,13 +280,45 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/little.png" width="500" height="308" />
 <title>Little Shop of Horror</title>
 </lockup>
+<lockup videoURL="https://archive.org/download/last_woman_on_earth1960/last_woman_on_earth1960_512kb.mp4">
+<img src="last.png" width="500" height="308" />
+<title>Last Woman On Earth</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/freaks1932/freaks_512kb.mp4">
+<img src="freaks.png" width="500" height="308" />
+<title>Freaks</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/lady_vanishes/The_Lady_Vanishes_512kb.mp4">
+<img src="lady.png" width="500" height="308" />
+<title>The Lady Vanishes</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/Dementia_13.avi/Dementia13_512kb.mp4">
+<img src="dementia.png" width="500" height="308" />
+<title>Dementia 13</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/ClaCinOnl_ThingsToCome/ClaCinOnl_ThingsToCome_512kb.mp4">
+<img src="things.png" width="500" height="308" />
+<title>Things To Come</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/StarOdysseyitalianStarWars1979/STAR_ODYSSEY_1979-desktop_512kb.mp4">
+<img src="star.png" width="500" height="308" />
+<title>Star Odyssey</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/TheTerror/TheTerror_512kb.mp4">
+<img src="terror.png" width="500" height="308" />
+<title>The Terror</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/KingOfTheZombies/KingOfTheZombies.mp4">
+<img src="king2.png" width="500" height="308" />
+<title>King of the Zombies</title>
+</lockup>
 								</section>
 				      </grid>
 				    </relatedContent>
 				  </listItemLockup>
 				    <listItemLockup> 
 				    <title>Action &amp; Adventure</title>
-				    <decorationLabel>7</decorationLabel>
+				    <decorationLabel>8</decorationLabel>
 				    <relatedContent> 
 				      <grid>
 					  <section> 
@@ -329,6 +355,94 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 <lockup videoURL="https://archive.org/download/TheMagicSword/TheMagicSword_512kb.mp4">
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/magic.png" width="500" height="308" />
 <title>The Magic Sword</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/iron_mask/iron_mask_512kb.mp4">
+<img src="iron.png" width="500" height="308" />
+<title>The Iron Mask</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/new_adventures_of_tarzan/new_adventures_of_tarzan_512kb.mp4">
+<img src="new.png" width="500" height="308" />
+<title>New Adventures of Tarzan</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/tarzan_and_the_green_goddess/tarzan_and_the_green_goddess_512kb.mp4">
+<img src="tarzan.png" width="500" height="308" />
+<title>Tarzan and the Green Goddess</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/the_big_show/the_big_show_512kb.mp4">
+<img src="big.png" width="500" height="308" />
+<title>The Big Show</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/They_Made_Me_A_Criminal_1939/they_made_me_a_criminal_1939_512kb.mp4">
+<img src="they.png" width="500" height="308" />
+<title>They Made Me a Criminal</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/Mclintock.avi/Mclintock_512kb.mp4">
+<img src="mclintock.png" width="500" height="308" />
+<title>McLintock</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/secret_weapon/sherlock_holmes_and_the_secret_weapon_512kb.mp4">
+<img src="secret.png" width="500" height="308" />
+<title>Sherlock Holmes and the Secret Weapon</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/Five_Minutes_To_Live.avi/Five_Minutes_to_Live_512kb.mp4">
+<img src="five.png" width="500" height="308" />
+<title>Five Minutes To Live</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/mr_robinson_crusoe/mr._robinson_crusoe_512kb.mp4">
+<img src="mr.png" width="500" height="308" />
+<title>Mr. Robinson Crusoe</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/GreatExpectations1946/GreatExpectations1946_512kb.mp4">
+<img src="great2.png" width="500" height="308" />
+<title>Great Expectations</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/angel_and_the_badman/angel_and_the_badman.mpeg">
+<img src="angel.png" width="500" height="308" />
+<title>Angel and the Badman</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/CaptainKidd_/CaptainKidd_512kb.mp4">
+<img src="captain.png" width="500" height="308" />
+<title>Captain Kidd</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/Cyrano_DeBergerac/Cyrano_De_Bergerac_512kb.mp4">
+<img src="cyrano.png" width="500" height="308" />
+<title>Cyrano De Bergerac</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/Intolerance/Intolerance_512kb.mp4">
+<img src="intolerance.png" width="500" height="308" />
+<title>Intolerance</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/cco_swordoflancelot/ccoPublicDomainSword_of_Lancelot_512kb.mp4">
+<img src=".png" width="500" height="308" />
+<title>Sword of Lancelot</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/cold_sweat.avi/Cold_Sweat_512kb.mp4">
+<img src="cold.png" width="500" height="308" />
+<title>Cold Sweat</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/FlashGordonTheMovie/FlashGordonTheMovie.mp4">
+<img src="flash.png" width="500" height="308" />
+<title>Flash Gordon: The Movie</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/the_outlaw/the_outlaw_512kb.mp4">
+<img src="outlaw.png" width="500" height="308" />
+<title>The Outlaw</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/Streetfighter_778/StreetFighter_512kb.mp4">
+<img src="street.png" width="500" height="308" />
+<title>The Street Fighter</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/AdventureIsland/AdventureIsland_512kb.mp4">
+<img src="island.png" width="500" height="308" />
+<title>Adventure Island</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/under_california_stars/under_california_stars_512kb.mp4">
+<img src="under.png" width="500" height="308" />
+<title>Under California Stars</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/The_Sign_OF_Four/The_Sign_Of_Four_512kb.mp4">
+<img src="sign.png" width="500" height="308" />
+<title>The Sign of Four</title>
 </lockup>
 
 								</section>
@@ -611,7 +725,6 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 <title>3 Stooges Malice In The Palace</title>
 </lockup>
 <lockup videoURL="https://archive.org/download/his_girl_friday/his_girl_friday_512kb.mp4">
-
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/his.png" width="500" height="308" />
 						<title>His Girl Friday</title>
 						</lockup>
@@ -623,10 +736,219 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/meet.png" width="500" height="308" />
 <title>Meet John Doe</title>
 </lockup>
+<lockup videoURL="https://archive.org/download/westofhotdog/WestOfHotDog_512kb.mp4">
+<img src="west.png" width="500" height="308" />
+<title>West of Hot Dog</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/TheFlyingDeuces/The_Flying_Deuces_512kb.mp4">
+<img src="flying.png" width="500" height="308" />
+<title>The Flying Deuces</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/penny_serenade/penny_serenade_512kb.mp4">
+<img src="penny.png" width="500" height="308" />
+<title>Penny Serenade</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/RescuefromGilligansIsland/RescuefromGilligansIsland_512kb.mp4">
+<img src="rescue.png" width="500" height="308" />
+<title>Rescue from Gilligans Island</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/ConcreteCowboys/ConcreteCowboys_512kb.mp4">
+<img src="concrete.png" width="500" height="308" />
+<title>Concrete Cowboys</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/private_snuffy_smith/private_snuffy_smith_512kb.mp4">
+<img src="private.png" width="500" height="308" />
+<title>Private Snuffy Smith</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/girl_o_my_dreams/girl_o_my_dreams_512kb.mp4">
+<img src="girl.png" width="500" height="308" />
+<title>Girl o My Dreams</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/the_gorilla/the_gorilla_512kb.mp4">
+<img src="gorilla.png" width="500" height="308" />
+<title>The Gorilla</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/cco_jackandthebeanstalk/ccoPublicDomainJack_and_the_Beanstalk_512kb.mp4">
+<img src="jack.png" width="500" height="308" />
+<title>Jack and the Beanstalk</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/amazing_adventure/amazing_adventuarchive_512kb.mp4">
+<img src="amazing.png" width="500" height="308" />
+<title>The Amazing Adventure</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/2_weeks_to_live/2_week_to_live_512kb.mp4">
+<img src="weeks.png" width="500" height="308" />
+<title>2 Weeks to Live</title>
+</lockup>
 								</section>
 				      </grid>
 				    </relatedContent>
 				  </listItemLockup>
+				  
+				  
+		<listItemLockup> 
+				    <title>Drama</title>
+				    <decorationLabel>10</decorationLabel>
+				    <relatedContent> 
+				      <grid>
+				        <section> 
+						
+<lockup videoURL="https://archive.org/download/road_to_happiness/road_to_happiness_512kb.mp4">
+<img src="road.png" width="500" height="308" />
+<title>Road To Happiness</title>
+</lockup>
+
+<lockup videoURL="https://archive.org/download/farewell_to_arms_ipod/farewell_to_arms_512kb.mp4">
+<img src="farewell.png" width="500" height="308" />
+<title>Farewell to Arms</title>
+</lockup>
+
+<lockup videoURL="https://archive.org/download/dishonored_lady/dishonored_lady_512kb.mp4">
+<img src="dishonored.png" width="500" height="308" />
+<title>Dishonored Lady</title>
+</lockup>
+
+<lockup videoURL="https://archive.org/download/Saint_Louis_Bank_Robbery/Saint_Louis_Bank_Robbery_512kb.mp4">
+<img src="saint.png" width="500" height="308" />
+<title>The Saint Louis Bank Robbery</title>
+</lockup>
+
+<lockup videoURL="https://archive.org/download/Kilimanjaro/The_Snows_of_Kilimanjaro_512kb.mp4">
+<img src="snows.png" width="500" height="308" />
+<title>The Snows of Kilimanjaro</title>
+</lockup>
+
+<lockup videoURL="https://archive.org/download/BorntoWin/BorntoWin_512kb.mp4">
+<img src="born.png" width="500" height="308" />
+<title>Born to Win</title>
+</lockup>
+
+<lockup videoURL="https://archive.org/download/nancy_drew_reporter/nancy_drew_reporter_512kb.mp4">
+<img src="nancy.png" width="500" height="308" />
+<title>Nancy Drew... Reporter</title>
+</lockup>
+
+<lockup videoURL="https://archive.org/download/till_the_clouds_roll_by/till_the_clouds_roll_by_512kb.mp4">
+<img src="till.png" width="500" height="308" />
+<title>Till The Clouds Roll By</title>
+</lockup>
+
+<lockup videoURL="https://archive.org/download/TheHouseILiveIn/TheHouseILiveIn_512kb.mp4">
+<img src="house2.png" width="500" height="308" />
+<title>The House I Live In</title>
+</lockup>
+
+								</section>
+				      </grid>
+				    </relatedContent>
+				  </listItemLockup>		  
+				  
+				  <listItemLockup> 
+				    <title>Film Noir</title>
+				    <decorationLabel>10</decorationLabel>
+				    <relatedContent> 
+				      <grid>
+				        <section> 
+
+<lockup videoURL="https://archive.org/download/doa_1949/doa_1949_512kb.mp4">
+<img src="d.png" width="500" height="308" />
+<title>D.O.A.</title>
+</lockup>
+
+<lockup videoURL="https://archive.org/download/impact/impact_512kb.mp4">
+<img src="impact.png" width="500" height="308" />
+<title>Impact</title>
+</lockup>
+
+<lockup videoURL="https://archive.org/download/Great_Guy.avi/Great_Guy_512kb.mp4">
+<img src="great.png" width="500" height="308" />
+<title>Great Guy</title>
+</lockup>
+
+<lockup videoURL="https://archive.org/download/ScarletStreet/Scarlet_Street_512kb.mp4">
+<img src="scarlet.png" width="500" height="308" />
+<title>Scarlet Street</title>
+</lockup>
+
+<lockup videoURL="https://archive.org/download/Detour/Detour_512kb.mp4">
+<img src="detour.png" width="500" height="308" />
+<title>Detour</title>
+</lockup>
+
+<lockup videoURL="https://archive.org/download/TooLateForTears/Too_Late_for_Tears_512kb.mp4">
+<img src="too.png" width="500" height="308" />
+<title>Too Late for Tears</title>
+</lockup>
+
+<lockup videoURL="https://archive.org/download/Quicksand_clear/Quicksand_512kb.mp4">
+<img src="quick.png" width="500" height="308" />
+<title>Quicksand</title>
+</lockup>
+
+<lockup videoURL="https://archive.org/download/Martha_Ivers_movie/Strange_Love_Martha_Ivers_512kb.mp4">
+<img src="strange.png" width="500" height="308" />
+<title>Strange Love of Martha Ivers</title>
+</lockup>
+
+<lockup videoURL="https://archive.org/download/amazing_mr_x/amazing_mr_x_512kb.mp4">
+<img src="x.png" width="500" height="308" />
+<title>The Amazing Mr. X</title>
+</lockup>
+
+								</section>
+				      </grid>
+				    </relatedContent>
+				  </listItemLockup>	
+				  
+				  
+				  <listItemLockup> 
+				    <title>Silent Films</title>
+				    <decorationLabel>10</decorationLabel>
+				    <relatedContent> 
+				      <grid>
+				        <section> 
+						<lockup videoURL="https://archive.org/download/LeVoyageDansLaLune_218/voyage.mp4">
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moon.png" width="500" height="308" />
+																				<title>Trip to the Moon</title>
+
+								  </lockup>	
+<lockup videoURL="https://archive.org/download/DrJekyllandMrHyde/DrJekyllandMrHyde_512kb.mp4">
+<img src="dr.png" width="500" height="308" />
+<title>Dr. Jekyll and Mr. Hyde</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/Metropolis1927EnglishVersion/Metropolis_1927_English_Version.mp4">
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/metropolis.png" width="500" height="308" />
+<title>Metropolis</title>
+</lockup>	
+<lockup videoURL="https://archive.org/download/ChelovekskinoapparatomManWithAMovieCamera/Chelovek_s_kino-apparatom_512kb.mp4">
+<img src="man.png" width="500" height="308" />
+<title>Man With A Movie Camera</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/TarzanoftheApes1918AndyDivx/TarzanoftheApes1918AndyDivx_512kb.mp4">
+<img src="apes.png" width="500" height="308" />
+<title>Tarzan of the Apes</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/The_General_Buster_Keaton/The_General_512kb.mp4">
+<img src="general.png" width="500" height="308" />
+<title>The General</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/FairbanksRobinHood1922/FairbanksRobinHood1922/FairbanksRobinHood1922_512kb.mp4">
+<img src="robin.png" width="500" height="308" />
+<title>Robin Hood</title>
+</lockup>
+
+<lockup videoURL="https://archive.org/download/TheGoat/The_Goat_512kb.mp4">
+<img src="goat.png" width="500" height="308" />
+<title>The Goat</title>
+</lockup>
+
+								</section>
+				      </grid>
+				    </relatedContent>
+				  </listItemLockup>	
+				  
+				  
+				  
 			  <listItemLockup> 
 				    <title>Cartoons</title>
 				    <decorationLabel>4</decorationLabel>
@@ -648,6 +970,14 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 <lockup videoURL="https://archive.org/download/Popeye_forPresident/Popeye_forPresident_512kb.mp4">
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/near.png" width="500" height="308" />
 <title>Popeye Nearlyweds</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/SlickSleuths/SlickSleuths_512kb.mp4">
+<img src="slick.png" width="500" height="308" />
+<title>Slick Sleuths</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/TheCaseOfTheScreamingBishop/CaseOfTheScreamingBishop_512kb.mp4">
+<img src="case.png" width="500" height="308" />
+<title>Hairlock Combs: The Case of The Screaming Bishop</title>
 </lockup>
 								</section>
 				      </grid>
