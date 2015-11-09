@@ -27,13 +27,17 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moon.png" width="500" height="308" />
 																				<title>Trip to the Moon</title>
 								  </lockup>	
-<lockup videoURL="https://archive.org/download/20000LeaguesUndertheSea/20000_Leagues_Under_the_Sea_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/20000.png" width="500" height="308" />
-<title>20,000 Leagues Under the Sea</title>
-</lockup>	
+
+
+
+
 <lockup videoURL="https://archive.org/download/Plan_9_from_Outer_Space_1959/Plan_9_from_Outer_Space_1959.mp4">
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/plan.jpeg" width="500" height="308" />
 <title>Plan 9 from Outer Space</title>
+</lockup>
+			<lockup videoURL="https://archive.org/download/rhythm_blues_review/rhythm_blues_review_512kb.mp4">
+<img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/rhythm.png" width="500" height="308" />
+<title>Rhythm and Blues Revue</title>
 </lockup>
 								  <lockup videoURL="https://archive.org/download/house_on_haunted_hill_ipod/house_on_haunted_hill_512kb.mp4">
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/house.jpg" width="500" height="308" />
@@ -43,49 +47,47 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/metropolis.png" width="500" height="308" />
 <title>Metropolis</title>
 </lockup>	
+
+<lockup videoURL="https://archive.org/download/doa_1949/doa_1949_512kb.mp4">
+<img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/d.png" width="500" height="308" />
+<title>D.O.A.</title>
+</lockup>
+
 <lockup videoURL="https://archive.org/download/TheGhoul/TheGhoul_1933_512kb.mp4">
 <img src="https://ia800306.us.archive.org/24/items/TheGhoul/TheGhoul.thumbs%2FTheGhoul_1933_000060.jpg" width="500" height="308" />
 <title>The Ghoul</title>
 </lockup>
+<lockup videoURL="https://archive.org/download/charlie_chaplin_film_fest/charlie_chaplin_film_fest_512kb.mp4">
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/festival.png" width="500" height="308" />
+						<title>Charlie Chaplin Festival</title>
+						</lockup>
 
-<lockup videoURL="https://archive.org/download/BloodyPitOfHorror/BloodyPitOfHorror.mp4">
-<img src="https://ia800301.us.archive.org/8/items/BloodyPitOfHorror/BloodyPitOfHorror.thumbs%2FBloodyPitOfHorror_000060.jpg" width="500" height="308" />
-<title>Bloody Pit of Horror</title>
+<lockup videoURL="https://archive.org/download/TheStranger_0/The_Stranger_512kb.mp4">
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/stranger.png" width="500" height="308" />
+<title>The Stranger</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/my_man_godfrey/my_man_godfrey.mp4">
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/my.png" width="500" height="308" />
+<title>My Man Godfrey</title>
+</lockup>
+<lockup videoURL="https://archive.org/download/Streetfighter_778/StreetFighter_512kb.mp4">
+<img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/street.png" width="500" height="308" />
+<title>The Street Fighter</title>
 </lockup>
 
-<lockup videoURL="https://archive.org/download/Lady_Frankenstein/Lady_Frankenstein_512kb.mp4">
-<img src="https://archive.org/services/img/Lady_Frankenstein" width="500" height="308" />
-<title>Lady Frankenstein</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/lost_world/lost_world_512kb.mp4">
-<img src="https://ia800301.us.archive.org/28/items/lost_world/lost_world.thumbs%2Flost_world_000060.jpg" width="500" height="308" />
-<title>The Lost World</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/Horror_Express/Horror_Express_512kb.mp4">
-<img src="https://archive.org/services/img/Horror_Express" width="500" height="308" />
-<title>Horror Express</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/ThePhantomoftheOpera/Phantom_of_the_Opera_512kb.mp4">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/The_Phantom_of_the_Opera_%281925%29.webm/220px--The_Phantom_of_the_Opera_%281925%29.webm.jpg" width="500" height="308" />
-<title>The Phantom of the Opera</title>
-</lockup>
-
-<lockup videoURL="https://archive.org/download/Killers_from_space/Killers_from_space_512kb.mp4">
-<img src="https://archive.org/services/img/Killers_from_space" width="500" height="308" />
-<title>Killers From Space</title>
+<lockup videoURL="https://archive.org/download/CC_1916_07_10_TheVagabond/CC_1916_07_10_TheVagabond.mp4">
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/vagabond.png" width="500" height="308" />
+<title>Charlie Chaplin The Vagabond</title>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/DasKabinettdesDoktorCaligariTheCabinetofDrCaligari/The_Cabinet_of_Dr._Caligari_512kb.mp4">
-<img src="https://ia802701.us.archive.org/8/items/DasKabinettdesDoktorCaligariTheCabinetofDrCaligari/DasKabinettdesDoktorCaligariTheCabinetofDrCaligari.thumbs%2FThe_Cabinet_of_Dr._Caligari_000060.jpg" width="500" height="308" />
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/cabinet.jpg" width="500" height="308" />
 <title>Das Kabinett des Doktor Caligari (The Cabinet of Dr. Caligari)</title>
 </lockup>
 
-<lockup videoURL="https://archive.org/download/CarnivalofSouls/CarnivalOfSouls_512kb.mp4">
-								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/carnival.jpeg" width="500" height="308" />
-<title>Carnival of Souls</title>
+<lockup videoURL="https://archive.org/download/the39steps_ipod/The_39_Steps_512kb.mp4">
+								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/steps.png" width="500" height="308" />
+<title>The 39 Steps</title>
 </lockup>
 								 <lockup videoURL="https://archive.org/download/Nosferatu_most_complete_version_93_mins./Nosferatu_1922_Symphony_of_Horror_512kb.mp4">
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/nosferatu.jpg" width="500" height="308" />
@@ -195,7 +197,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 
 <lockup videoURL="https://archive.org/download/Horror_Hotel/Horror_Hotel_512kb.mp4">
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/horror2.png" width="500" height="308" />
-<title>City of the Dead/Horror Hotel</title>
+<title>City of the Dead</title>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/FrankensteinfullMovie/Frankenstein1910.mp4">
@@ -935,7 +937,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 </lockup>
 
 <lockup videoURL="https://archive.org/download/kansascityconfidencial/kansascityconfidencial_512kb.mp4">
-<img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/kanasas.png" width="500" height="308" />
+<img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/kansas.png" width="500" height="308" />
 <title>Kansas City Confidential</title>
 </lockup>
 
