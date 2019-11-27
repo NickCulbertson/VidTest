@@ -23,7 +23,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/night.jpg" width="500" height="308" />
 <title>Night of the Living Dead</title>
 </lockup>
-<lockup videoURL="https://archive.org/download/LeVoyageDansLaLune_218/voyage.mp4">
+<lockup videoURL="https://archive.org/download/Levoyagedanslalune/Le_voyage_dans_la_lune_A_trip_to_the_moon__Georges_Mlis_1902_512kb.mp4">
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moon.png" width="500" height="308" />
 																				<title>Trip to the Moon</title>
 								  </lockup>	
@@ -459,7 +459,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 				      <grid>
 				        <section> 
 						
-						<lockup videoURL="https://archive.org/download/LeVoyageDansLaLune_218/voyage.mp4">
+						<lockup videoURL="https://archive.org/download/Levoyagedanslalune/Le_voyage_dans_la_lune_A_trip_to_the_moon__Georges_Mlis_1902_512kb.mp4">
 								    <img src="https://raw.githubusercontent.com/NickCulbertson/VidTest/master/moon.png" width="500" height="308" />
 																				<title>Trip to the Moon</title>
 								  </lockup>	
